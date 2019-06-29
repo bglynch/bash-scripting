@@ -8,6 +8,7 @@ echo
 
 sampledir=./
 ls $sampledir
+echo $sampledir
 echo
 # =========================
 myvar='Hello World'
